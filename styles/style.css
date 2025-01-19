@@ -421,3 +421,7 @@ table tr{
     cursor: pointer;
 }
 
+.amount:hover{
+    border: 2px solid green;
+}
+
